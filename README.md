@@ -2,6 +2,8 @@
 
 Welcome to the Data Structures Homework Repository! This repository serves as a platform for students to submit their homework assignments and for instructors to evaluate them. The website facilitates the submission of assignments and provides test cases to verify the correctness of the solutions.
 
+## Website address: https://ds.epidemic-calculator.info/
+
 ## About
 
 This project was created collaboratively by Armin Sabourmoghaddam, Amir Khaki, and Ali Farrokh. It aims to streamline the process of collecting and evaluating homework assignments for students studying data structures.
