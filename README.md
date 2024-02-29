@@ -41,7 +41,3 @@ We welcome contributions to improve the functionality and usability of this repo
 ## License
 
 This project is licensed under the [MIT License](LICENSE). Feel free to use, modify, and distribute it according to the terms of the license.
-
----
-
-Feel free to adjust any part of this README file to better suit your preferences or provide additional information about your project!
