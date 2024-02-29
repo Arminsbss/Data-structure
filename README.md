@@ -6,6 +6,10 @@ Welcome to the Data Structures Homework Repository! This repository serves as a 
 
 This project was created collaboratively by Armin Sabourmoghaddam, Ali Khaki, and Ali Farrokh. It aims to streamline the process of collecting and evaluating homework assignments for students studying data structures.
 
+- **Armin Sabourmoghaddam:** Developed the full structure of the website using HTML.
+- **Ali Farrokh:** Added and designed the UI and UX elements to enhance the user experience.
+- **Ali Khaki:** Implemented the feature for uploading homework assignments.
+
 ## Projects
 
 ### 1. Big Number
@@ -18,7 +22,7 @@ In this project, students are tasked with converting mathematical expressions fr
 
 ### 3. Determinant of Matrix
 
-The third project involves calculating the determinant of a matrix using three different methods: cofactor expansion, LU decomposition, and Gaussian elimination. Students need to implement these methods and compare their efficiency and accuracy.
+The third project involves calculating the determinant of a matrix using three different methods: rezaeifar, laplacian, and Gaussian elimination. Students need to implement these methods and compare their efficiency and accuracy.
 
 ## How to Use
 
