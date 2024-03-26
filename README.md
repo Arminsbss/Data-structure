@@ -8,9 +8,9 @@ Welcome to the Data Structures Homework Repository! This repository serves as a 
 
 This project was created collaboratively by Armin Sabourmoghaddam, Amir Khaki, and Ali Farrokh. It aims to streamline the process of collecting and evaluating homework assignments for students studying data structures.
 
-- **Armin Sabourmoghaddam:** Developed the full structure of the website using HTML.
-- **Ali Farrokh:** Added and designed the UI and UX elements to enhance the user experience.
-- **Amir Khaki:** Implemented the feature for uploading homework assignments.
+- **[Armin Sabourmoghaddam](https://github.com/Arminsbss)** Developed the full structure of the website using HTML.
+- ** [Ali Farrokh](https://github.com/aliifarokh)** Added and designed the UI and UX elements to enhance the user experience.
+- **[Amir Khaki](https://github.com/amirkhaki)** Implemented the feature for uploading homework assignments.
 
 ## Projects
 
